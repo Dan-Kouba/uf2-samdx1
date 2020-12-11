@@ -1,5 +1,7 @@
 # UF2 Bootloader
 
+**Forked from main UF2 bootloader branch to add support for the Tracker One Sensor Hub**
+
 This repository contains a bootloader, derived from Atmel's SAM-BA,
 which in addition to the USB CDC (serial) protocol, also supports
 the USB MSC (mass storage).
